@@ -102,7 +102,7 @@ export function Hero() {
             className="mt-8"
           >
             <a
-              href="https://drive.google.com/file/d/1szQ1X_ZGjqcDh6srCg_2v0dNz2VE8F9J/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1kr-4lcVS5cTw8VrA7ZejIwDDyopqwFUk/view?usp=sharing"
               className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-background hover:opacity-90 transition-opacity text-sm font-mono font-bold"
             >
               Download Resume
