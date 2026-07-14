@@ -15,7 +15,7 @@ export function Contact() {
     {
       icon: Rss,
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/siddhid-sambrut-dani-325143271/",
+      href: "https://www.linkedin.com/in/siddhidsambrutdani/",
       text: "linkedin.com/in/siddhid-...",
     },
     {
