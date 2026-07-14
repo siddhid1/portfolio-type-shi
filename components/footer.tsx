@@ -10,7 +10,7 @@ export function Footer() {
     { icon: GitBranch, href: "https://github.com/siddhid1", label: "GitHub" },
     {
       icon: Rss,
-      href: "https://www.linkedin.com/in/siddhid-sambrut-dani-325143271/",
+      href: "https://www.linkedin.com/in/siddhidsambrutdani/",
       label: "LinkedIn",
     },
     { icon: X, href: "https://x.com/_siddhid", label: "Twitter" },
